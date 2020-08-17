@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Download images
+# Download images --- Note that if you cloned this repo, you can't run this file because it's private.
 python ./scraper.py
 
 # Create root dir.json
