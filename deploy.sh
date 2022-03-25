@@ -21,4 +21,8 @@ for D in *; do
     fi
 done
 
+# Next step, add files to git
 
+git add *
+
+# I would do a message here but nah
