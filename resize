@@ -1,1 +1,1 @@
-find . -name "*.png" | xargs mogrify -resize 100x100
+find . -name "*.png" | xargs -d '\n' mogrify -resize 100x100
