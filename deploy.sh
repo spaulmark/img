@@ -13,6 +13,6 @@ echo ']}' >> dir.json
 
 # Next step: Go into each folder and create a dir.json
 
-./mkdirs.sh
+./jsons.sh
 
 
